@@ -1,5 +1,5 @@
 
-4.4 First Hooks Query
+5.2 Footer and Auth UI part Three
 
 
 
