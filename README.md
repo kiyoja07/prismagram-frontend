@@ -1,5 +1,5 @@
 
-5.2 Footer and Auth UI part Three
+5.4 requestSecret Mutation and Refactor
 
 
 
